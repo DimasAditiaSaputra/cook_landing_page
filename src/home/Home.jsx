@@ -16,7 +16,7 @@ function Home() {
         <button>Explore as Recipse</button>
       </div>
       <div className="side-right">
-        <img src="../../public/assets/koki.png" alt="koki.png" />
+        <img src="public/assets/koki.png" alt="koki.png" />
       </div>
     </div>
   );
